@@ -101,23 +101,38 @@
 
 ---
 
-## 📊 GitHub Stats <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 📊 GitHub Stats 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<p align="center">
-   <a href="https://github-readme-stats.vercel.app/api?username=MinhKhoi3104&show_icons=true&count_private=true">
-      <img align="left" width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=MinhKhoi3104&show_icons=true&count_private=true" alt="GitHub Stats" />
-   </a>
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhoi3104&layout=compact">
-      <img align="right" width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhoi3104&layout=compact" alt="Top Languages" />
-   </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=MinhKhoi3104&show_icons=true&count_private=true"
+        height="200"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhoi3104&layout=compact"
+        height="200"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
-<br clear="both"/>
 <br/>
 
 <p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhKhoi3104&theme=nord&hide_border=true&bg_color=2e3440&color=88c0d0&line=88c0d0&point=ffffff" alt="Activity Graph" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MinhKhoi3104&theme=nord&hide_border=true&bg_color=2e3440&color=88c0d0&line=88c0d0&point=ffffff"
+    width="100%"
+    alt="Activity Graph"
+  />
 </p>
+
 
 ---
 
