@@ -101,10 +101,9 @@
 
 ---
 
-## 📊 GitHub Stats 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+## 📊 GitHub Stats
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%">
       <img
@@ -127,12 +126,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MinhKhoi3104&theme=nord&hide_border=true&bg_color=2e3440&color=88c0d0&line=88c0d0&point=ffffff"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MinhKhoi3104&theme=nord&hide_border=true"
     width="100%"
     alt="Activity Graph"
   />
 </p>
-
 
 ---
 
