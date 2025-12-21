@@ -101,36 +101,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=MinhKhoi3104&show_icons=true&count_private=true"
-        height="200"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhoi3104&layout=compact"
-        height="200"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
-
-<br/>
+## 📊 GitHub Stats <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MinhKhoi3104&theme=nord&hide_border=true"
-    width="100%"
-    alt="Activity Graph"
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MinhKhoi3104&show_icons=true&count_private=true&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhoi3104&layout=compact&hide_border=true" />
 </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhKhoi3104&theme=nord&hide_border=true&bg_color=2e3440&color=88c0d0&line=88c0d0&point=ffffff" alt="Activity Graph" width="100%" />
 
 ---
 
