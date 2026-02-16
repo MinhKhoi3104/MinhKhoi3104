@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=Hi+there+%F0%9F%91%8B+%2C;I%27m+Minh+Khoi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=58A6FF&multiline=true&repeat=false&width=1300&height=140&lines=Hi+there+%F0%9F%91%8B+%2C;I%27m+Minh+Khoi)](https://git.io/typing-svg)
 
 ## 🌐 Let's Connect <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
